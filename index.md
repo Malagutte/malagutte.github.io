@@ -4,11 +4,11 @@ LIAX 2017 - currently
 Development of systems in java language using technologies such as hibernate jsf, jsp and many more ....
 
 ### Exeperience:
-LIAX 2017 - currently
+LIAX 2017 - nowdays<br>
 Development of systems in java language using technologies such as hibernate jsf, jsp and many more ....
 
 ```markdown
-Syntax highlighted code block
+Programming knowledge:
 
 # Header 1
 ## Header 2
