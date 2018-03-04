@@ -7,24 +7,22 @@ LIAX 2017 - nowdays<br>
 Development of systems in java language using technologies such as hibernate jsf, jsp and many more ....
 
 ```markdown
-Programming knowledge:
+### Knowledge
+-C language
+-C# (ASP.NET)
+-HTML
+-PHP
+-Java
+-Development methodologies
+-Knowledge in MySQL database, ORACLE, POSTGRE
 
-# Header 1
-## Header 2
-### Header 3
+### Characteristics
+-Facility with group work
+-Determined
+-Always searching for new knowledge
+-Extremely curious and willing to learn
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
