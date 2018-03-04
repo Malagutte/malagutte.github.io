@@ -9,7 +9,7 @@ Development of systems in java language using technologies such as hibernate jsf
 ```markdown
 ### Knowledge
 <ul>
-  <li>C language</li>
+  <li><b>C language</b></li>
   <li>C# (ASP.NET)</li>
   <li>HTML</li>
   <li>PHP</li>
