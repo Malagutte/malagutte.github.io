@@ -1,7 +1,6 @@
 ## Hello World
 I am currently a student in the field of information technology, exepcificamente student of analysis and development of systems.
-LIAX 2017 - currently
-Development of systems in java language using technologies such as hibernate jsf, jsp and many more ....
+
 
 ### Exeperience:
 LIAX 2017 - nowdays<br>
