@@ -8,13 +8,15 @@ Development of systems in java language using technologies such as hibernate jsf
 
 ```markdown
 ### Knowledge
--C language
--C# (ASP.NET)
--HTML
--PHP
--Java
--Development methodologies
--Knowledge in MySQL database, ORACLE, POSTGRE
+<ul>
+  <li>C language</li>
+  <li>C# (ASP.NET)</li>
+  <li>HTML</li>
+  <li>PHP</li>
+  <li>Java</li>
+  <li>Development methodologies</li>
+  <li>Knowledge in MySQL database, ORACLE, POSTGRE</li>
+</ul>
 
 ### Characteristics
 -Facility with group work
