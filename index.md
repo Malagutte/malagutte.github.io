@@ -6,12 +6,11 @@ I am currently a student in the field of information technology, exepcificamente
 LIAX 2017 - nowdays<br>
 Development of systems in java language using technologies such as hibernate jsf, jsp and many more ....
 
-```markdown
 ### Knowledge
 <ul>
   <li>C language</li>
   <li>C# (ASP.NET)</li>
-  <li>HTML</li>
+  <li>JS</li>
   <li>PHP</li>
   <li>Java</li>
   <li>Development methodologies</li>
@@ -19,23 +18,10 @@ Development of systems in java language using technologies such as hibernate jsf
 </ul>
 
 ### Characteristics
--Facility with group work
--
--Determined
--
--Always searching for new knowledge
--
--Extremely curious and willing to learn
--
--passionate about computing
--
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Malagutte/malagutte.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<ul>
+  <li>Passionate about computing</li>
+  <li>Facility with group work</li>
+  <li>Determined</li>
+  <li>Always searching for new knowledge</li>
+  <li>Extremely curious and willing to learn</li>
+</ul>
