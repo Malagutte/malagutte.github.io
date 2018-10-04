@@ -8,6 +8,7 @@ I am currently a student in the field of information technology, exepcificamente
     LIAX 2017 - nowdays<br>
     <ul>
       <li>Development of systems in java language using technologies such as hibernate jsf, jsp and many more .... </li>
+      <li>C# asp.net</li>
     </ul>
   </li>
 </ul>
